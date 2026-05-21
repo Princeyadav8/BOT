@@ -1,0 +1,4 @@
+Flask
+pytelegrambotapi
+python-telegram-bot
+requests
