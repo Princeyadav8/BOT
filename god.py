@@ -18,12 +18,12 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('8919840094:AAHB-5hPYKbmQIYI7AZ7A6IbmdZPWTMkMKc')
+bot = telebot.TeleBot('8604674269:AAGOa1EuknuNM87CE5ZrWWGdJbn0dbLLpHQ')
 # Admin user IDs (all as integers for proper comparison)
 admin_id = {5231119862,6665217160}
 # API Configuration
-API_URL = "http://13.201.127.166/api/v1/attack/start"
-API_KEY = "Rohon@8830"
+API_URL = "http://app.teamc2.xyz/api/attack"
+API_KEY = "HTQU5R"
 # Files for data storage
 USER_FILE = "users.json"
 LOG_FILE = "log.txt"
