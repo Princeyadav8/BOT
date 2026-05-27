@@ -18,7 +18,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('8604674269:AAGOa1EuknuNM87CE5ZrWWGdJbn0dbLLpHQ')
+bot = telebot.TeleBot('8989585775:AAFfGNoN40fcEWaUnsMayqRMMCBLePYF8hw')
 # Admin user IDs (all as integers for proper comparison)
 admin_id = {5231119862,6665217160}
 # API Configuration
